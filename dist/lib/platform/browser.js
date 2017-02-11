@@ -16,4 +16,4 @@ export var BrowserWebBluetooth = (function () {
     BrowserWebBluetooth.ctorParameters = function () { return []; };
     return BrowserWebBluetooth;
 }());
-//# sourceMappingURL=/Users/wassimchegham/Sandbox/oss/angular-web-bluetooth/lib/platform/browser.js.map
+//# sourceMappingURL=C:/P/angular-web-bluetooth/lib/platform/browser.js.map

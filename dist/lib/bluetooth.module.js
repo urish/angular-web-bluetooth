@@ -30,4 +30,4 @@ export var WebBluetoothModule = (function () {
     WebBluetoothModule.ctorParameters = function () { return []; };
     return WebBluetoothModule;
 }());
-//# sourceMappingURL=/Users/wassimchegham/Sandbox/oss/angular-web-bluetooth/lib/bluetooth.module.js.map
+//# sourceMappingURL=C:/P/angular-web-bluetooth/lib/bluetooth.module.js.map

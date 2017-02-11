@@ -4,4 +4,4 @@ export * from './bluetooth.service';
 export * from './bluetooth.module';
 export * from './lang/types';
 export * from './lang/uuids';
-//# sourceMappingURL=/Users/wassimchegham/Sandbox/oss/angular-web-bluetooth/lib/index.js.map
+//# sourceMappingURL=C:/P/angular-web-bluetooth/lib/index.js.map
